@@ -1,0 +1,14 @@
+
+body{
+  background-color: lightpink;
+}
+.container{
+  display:flex;
+  justify-content:center;
+  border-width: 2px;
+  border-color: red;
+}
+
+h1{
+  color: Red;
+}
